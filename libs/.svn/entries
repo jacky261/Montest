@@ -1,0 +1,54 @@
+8
+
+dir
+297
+https://192.9.151.250/svn/automation/ChinaSofti_Android_AutoMation_Agent/libs
+https://192.9.151.250/svn/automation
+
+
+
+2014-07-17T07:33:11.750625Z
+263
+qiming
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b658146b-8166-9a43-a204-19ebc7ef13f7
+
+android.jar
+file
+
+
+
+
+2014-07-31T03:04:12.816000Z
+78698ec2c6167ecd07a094a571c71479
+2014-07-17T07:33:11.750625Z
+263
+qiming
+has-props
+
+ddmlib.jar
+file
+
+
+
+
+2014-07-31T03:04:10.031000Z
+21893cdf2ddd5c5827af875669004c93
+2014-07-17T07:33:11.750625Z
+263
+qiming
+has-props
+
